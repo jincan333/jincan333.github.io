@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://jincan333.github.io//sitemap.xml
+User-agent: * Disallow: Sitemap: https://jincan333.github.io/sitemap.xml
