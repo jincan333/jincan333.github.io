@@ -62,7 +62,7 @@ I'm also open to collaborating on projects. Please contact me via email if you a
 Developing advanced techniques to improve LLM capabilities, including:  
 - Training innovations: Supervised fine-tuning (SFT), reinforcement learning with human/AI feedback (RLHF/RLAIF), Direct Preference Optimization (DPO)  
 - Post-training refinement: Self-critique mechanisms, iterative self-refinement  
-- Reliability: Robustness, Harnlessness, Helpfulness  
+- Reliability: Robustness, Harmlessness, Helpfulness
 
 *Recent progress: NeurIPS 2024, WWW 2025 Workshop, submitted to ICML 2025*
 
