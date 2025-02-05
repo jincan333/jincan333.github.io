@@ -14,6 +14,80 @@
   - firstname: ["Dimitris", "Dimitris N", "Dimitris N."]
     url: https://people.cs.rutgers.edu/~dnm/
 
+"li":
+  - firstname: ["Yiyuan", "Yiyuan Li", "Li Yiyuan"]
+    url: https://nativeatom.github.io/
+
+"pavone":
+  - firstname: ["Marco", "Marco Pavone", "Pavone Marco"]
+    url: https://web.stanford.edu/~pavone/index.html
+
+"zhao":
+  - firstname: ["Shiyu", "Shiyu Zhao", "Zhao Shiyu"]
+    url: https://xiaofeng94.github.io/
+
+"wang":
+  - firstname: ["Zhenting", "Zhenting Wang", "Wang Zhenting"]
+    url: https://zhentingwang.github.io/
+
+"xu":
+  - firstname: ["Wujiang", "Wujiang Xu", "Xu Wujiang"]
+    url: https://wujiangxu.github.io/
+
+"he":
+  - firstname: ["Xiaoxiao", "Xiaoxiao He", "He Xiaoxiao"]
+    url: https://hexiaoxiao-cs.github.io/
+
+"han":
+  - firstname: ["Ligong", "Ligong Han", "Han Ligong"]
+    url: https://ligongh.github.io/
+
+"huang":
+  - firstname: ["Tianjin", "Tianjin Huang", "Huang Tianjin"]
+    url: https://tianjinyellow.github.io/
+
+"zhang":
+  - firstname: ["Yihua", "Yihua Zhang", "Zhang Yihua"]
+    url: https://www.yihua-zhang.com/
+
+"zhang":
+  - firstname: ["Zongkai", "Zongkai Zhang", "Zhang Zongkai"]
+    url: https://zongkaiz.github.io/
+
+"pechenizkiy":
+  - firstname: ["Mykola", "Mykola Pechenizkiy", "Pechenizkiy Mykola"]
+    url: https://mpechen.win.tue.nl/
+
+"liu":
+  - firstname: ["Sijia", "Sijia Liu", "Liu Sijia"]
+    url: https://lsjxjtu.github.io/index.html
+
+  - firstname: ["Shiwei", "Shiwei Liu", "Liu Shiwei"]
+    url: https://shiweiliuiiiiiii.github.io/
+
+"chen":
+  - firstname: ["Tianlong", "Tianlong Chen", "Chen Tianlong"]
+    url: https://tianlong-chen.github.io/
+
+"zhong":
+  - firstname: ["Kai", "Kai Zhong", "Zhong Kai"]
+    url: https://scholar.google.com/citations?user=Iq2EMqcAAAAJ&hl=en&oi=ao
+
+"rajasekaran":
+  - firstname: ["Sanguthevar", "Sanguthevar Rajasekaran", "Rajasekaran Sanguthevar"]
+    url: https://scholar.google.com/citations?user=fKoTRs8AAAAJ&hl=en&oi=ao
+
+"xi":
+  - firstname: ["Xie", "Xie Xi", "Xi Xie"]
+    url: https://xiexi51.github.io/
+
+"ding":
+  - firstname: ["Caiwen", "Caiwen Ding", "Ding Caiwen"]
+    url: https://caiwending.github.io/web/home.html
+
+
+    
+
 # "adams":
 #   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
 #     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
