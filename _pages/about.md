@@ -1,34 +1,95 @@
 ---
+# TODO: add analytics
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <strong>Ph.D. Student in Computer Science, Rutgers University</strong>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: personal1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    CBIM, Busch Campus
+    can.jin@rutgers.edu
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+teaching:
+  enabled: true
+  courses:
+    - title: "Advanced Machine Learning"
+      code: "CS 601"
+      role: "Teaching Assistant"
+      term: "Spring 2024"
+      
+reviews:
+  enabled: true
+  conferences:
+    - name: "NeurIPS"
+      years: [2023, 2024]
+      role: "Area Chair"
+
+selected_papers: true # includes a list of papers marked as "selected={true}"
+
+social: true # includes social icons at the bottom of the page
+
+
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Computer Science Ph.D. student, starting in Fall 2024 at [Rutgers University](https://www.cs.rutgers.edu/), New Brunswick, under the guidance of Professor [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I hold both a Bachelor’s and a Master’s degree in Mathematics from the University of Science and Technology of China. Prior to my Ph.D., I spent two years as a Machine Learning Engineer at Meituan Dianping Corporation. My research interests include LLM reasoning/generalization/reliability, Efficient ML, and 3D/image/video/multimodal generation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**<span style="color:red">I'm looking for research internship opportunities.</span>** You can find my CV [here](/cv/). Please contact me via email if you have any questions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also open to collaborating on projects. Please contact me via email if you are interested in collaborating. I have multiple 4 GPU GH200 nodes and you don't need to worry about the computational resources in our collaboration.
+
+<div class="section-divider"></div>
+
+#### **Research**
+
+##### 🧠 **Large Language Models**
+**Reasoning | Generalization | Reliability**  
+Developing advanced techniques to improve LLM capabilities, including:  
+- Training innovations: Supervised fine-tuning (SFT), reinforcement learning with human/AI feedback (RLHF/RLAIF), Direct Preference Optimization (DPO)  
+- Post-training refinement: Self-critique mechanisms, iterative self-refinement  
+- Reliability: Robustness, Harnlessness, Helpfulness  
+
+*Recent progress: NeurIPS 2024, WWW 2025 Workshop, submitted to ICML 2025*
+
+
+##### ⚡ **Efficient Machine Learning**  
+**Computational Efficiency | Effectiveness**  
+Exploring methods to improve the efficiency of ML models, including:  
+- Model compression via distillation/pruning 
+- Prompt (engineering) for task adaptation  
+
+*Recent progress: AAAI 2025, ICLR 2025, WWW 2025 Workshop*
+
+---
+
+##### 🎨 **Multimodal Generation**  
+**3D | Video | Image | Multimodal generation**  
+Exploring methods to generate 3D, video, image, and multimodal content using generative models. This is an ongoing research direction.
+
+<div class="section-divider"></div>
+
+#### **Academic Service**
+
+##### Teaching
+- 24Fall: CS210: Data Management for Data Science @ [BE253](https://maps.rutgers.edu/map#/?click=true&lat=40.522820&lng=-74.439447&selected=4145&sidebar=true&underConstructionState=true&zoom=20)
+- 25Spring: 
+
+##### Peer Review
+- Reviewer: CVPR 2025, ICML 2024 Workshop FM-Wild, Alexandria Engineering Journal, Information Fusion, Pattern Recognition, Signal Processing
+
+<div class="section-divider"></div>
