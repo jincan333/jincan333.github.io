@@ -83,13 +83,13 @@ Exploring methods to generate 3D, video, image, and multimodal content using gen
 
 <div class="section-divider"></div>
 
-#### **Academic Service**
+#### **Academic Services**
 
 ##### Teaching
 - 24Fall: CS210: Data Management for Data Science @ [BE253](https://maps.rutgers.edu/map#/?click=true&lat=40.522820&lng=-74.439447&selected=4145&sidebar=true&underConstructionState=true&zoom=20)
 - 25Spring: 
 
 ##### Peer Review
-- Reviewer: CVPR 2025, ICML 2024 Workshop FM-Wild, Alexandria Engineering Journal, Information Fusion, Pattern Recognition, Signal Processing
+- Reviewer: CVPR, ICML, Alexandria Engineering Journal, Information Fusion, Pattern Recognition, Signal Processing
 
 <div class="section-divider"></div>
