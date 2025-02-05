@@ -47,7 +47,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I'm a Computer Science Ph.D. student, starting in Fall 2024 at [Rutgers University](https://www.cs.rutgers.edu/), New Brunswick, under the guidance of Professor [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I hold both a Bachelor’s and a Master’s degree in Mathematics from the University of Science and Technology of China. Prior to my Ph.D., I spent two years as a Machine Learning Engineer at Meituan Dianping Corporation. My research interests include LLM reasoning/generalization/reliability, Efficient ML, and 3D/image/video/multimodal generation.
+I'm a Computer Science Ph.D. student, starting in Fall 2024 at [Rutgers University](https://www.cs.rutgers.edu/), New Brunswick, under the guidance of Professor [Dimitris N. Metaxas](https://people.cs.rutgers.edu/~dnm/). I hold both a Bachelor’s and a Master’s degree in Mathematics from the University of Science and Technology of China. Prior to my Ph.D., I spent two years as a Machine Learning Engineer at Meituan Dianping Corporation. My research interests include LLM reasoning/generalization/reliability, Efficient AI, and 3D/image/video/multimodal generation.
 
 **<span style="color:red">I'm looking for research internship opportunities.</span>** You can find my CV [here](/cv/). Please contact me via email if you have any questions.
 
@@ -67,7 +67,7 @@ Developing advanced techniques to improve LLM capabilities, including:
 *Recent progress: NeurIPS 2024, WWW 2025 Workshop, submitted to ICML 2025*
 
 
-##### ⚡ **Efficient Machine Learning**  
+##### ⚡ **Efficient AI**  
 **Computational Efficiency | Effectiveness**  
 Exploring methods to improve the efficiency of ML models, including:  
 - Model compression via distillation/pruning 
