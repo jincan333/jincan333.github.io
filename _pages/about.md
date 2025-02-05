@@ -90,6 +90,6 @@ Exploring methods to generate 3D, video, image, and multimodal content using gen
 - 25Spring: CS534: Computer Vision
 
 ##### Peer Review
-- Reviewer: CVPR, ICML, Alexandria Engineering Journal, Information Fusion, Pattern Recognition, Signal Processing
+- Reviewer: CVPR 2025, ICML 2024 Workshop, Alexandria Engineering Journal, Information Fusion, Pattern Recognition, Signal Processing
 
 <div class="section-divider"></div>
