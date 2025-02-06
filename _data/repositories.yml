@@ -5,7 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - jincan333/LoT
-  - UNITES-Lab/VPNs
   - jincan333/LoR-VP
+  - UNITES-Lab/VPNs
   - jincan333/APEER
   - jincan333/RankFlow
