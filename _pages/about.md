@@ -24,21 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
-teaching:
-  enabled: true
-  courses:
-    - title: "Advanced Machine Learning"
-      code: "CS 601"
-      role: "Teaching Assistant"
-      term: "Spring 2024"
-      
-reviews:
-  enabled: true
-  conferences:
-    - name: "NeurIPS"
-      years: [2023, 2024]
-      role: "Area Chair"
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
 social: true # includes social icons at the bottom of the page
@@ -64,7 +49,7 @@ Developing advanced techniques to improve LLM capabilities, including:
 - Post-training refinement: Self-critique mechanisms, iterative self-refinement  
 - Reliability: Robustness, Harmlessness, Helpfulness
 
-*Recent progress: NeurIPS 2024, WWW 2025 Workshop, submitted to ICML 2025*
+*Recent progress: NeurIPS 2024, submitted to ICML 2025*
 
 
 ##### ⚡ **Efficient AI**  
@@ -73,7 +58,7 @@ Exploring methods to improve the efficiency of ML models, including:
 - Model compression via distillation/pruning 
 - Prompt (engineering) for task adaptation  
 
-*Recent progress: AAAI 2025, ICLR 2025, WWW 2025 Workshop*
+*Recent progress: AAAI 2025, ICLR 2025*
 
 ---
 
