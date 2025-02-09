@@ -36,7 +36,7 @@ I'm a Computer Science Ph.D. student, starting in Fall 2024 at [Rutgers Universi
 
 **<span style="color:red">I'm looking for research internship opportunities.</span>** You can find my CV [here](/cv/). Please contact me via email if you have any questions.
 
-I'm also open to collaborating on projects. Please contact me via email if you are interested in collaborating. I have multiple 4 GPU GH200 nodes and you don't need to worry about the computational resources in our collaboration.
+I'm also open to collaborating on projects. Please contact me via email if you are interested in collaborating.
 
 <div class="section-divider"></div>
 
